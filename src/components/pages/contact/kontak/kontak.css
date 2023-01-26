@@ -1,0 +1,23 @@
+#kontak {
+    text-shadow: 5px -1px 0 gray, 1px -1px 0 gray, -1px 1px 0 gray,
+        5px 1px 0 gray;
+}
+
+#contact {
+    animation-name: opIn;
+    animation-duration: 2s;
+}
+
+#contact {
+    animation-name: opIn;
+    animation-duration: 2s;
+}
+
+@keyframes opIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
